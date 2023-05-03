@@ -13,7 +13,7 @@ My finish — 🤔
 
 1. [x] JavaScript Drum Kit
 2. [x] JS + CSS Clock
-3. [ ] CSS Variables
+3. [x] CSS Variables
 4. [ ] Array Cardio, Day 1
 5. [ ] Flex Panel Gallery
 6. [ ] Type Ahead
