@@ -6,9 +6,6 @@ JavaScript 30 Day Challenge created by @wesbos. Original starter files can be fo
 
 Vanilla only 🍦
 
-My start — 28.04.2023
-My finish — 🤔
-
 ## List Of Contents
 
 1. [x] JavaScript Drum Kit
